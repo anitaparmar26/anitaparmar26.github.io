@@ -1,0 +1,23 @@
+{
+  "name": "anitaparmar26.github.io",
+  "version": "1.0.0",
+  "description": "hello first time using github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitaparmar26/anitaparmar26.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anitaparmar26/anitaparmar26.github.io/issues"
+  },
+  "homepage": "https://github.com/anitaparmar26/anitaparmar26.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
